@@ -4,7 +4,7 @@
 ## 开源项目
 
   - [IMOPSO](https://github.com/liurongwhm/IMOPSO-EBE)：针对多目标粒子群优化算法全局搜索能力不足，难以获取优质端元组合的问题，构建基于光谱子空间的多目标优化模型[1]，以获取更为完整的端元集合；设计竞争与合作机制和聚类子空间搜索机制以改进多目标粒子群优化算法，提升了算法的全局搜索能力与搜索效率，并赋予粒子整合优质信息的能力。
-> [1]	R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
+> R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
 
 ## 小的复现分享
 
