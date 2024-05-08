@@ -7,7 +7,7 @@
 > R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
 
 ## 小的复现分享
-- [E-FDPC-julia](https://github.com/WangPengrui/E-FDPC-julia):增强密度峰值快速聚类算法（Enhanced-fast density-peak-based clustering, [E-FDPC](https://github.com/senjia1980/EFDPC)）的julia实现。
+- [E-FDPC-julia](https://github.com/WangPengrui/E-FDPC-julia)：增强密度峰值快速聚类算法（Enhanced-fast density-peak-based clustering, [E-FDPC](https://github.com/senjia1980/EFDPC)）的julia实现。
 
 
 
