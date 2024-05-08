@@ -11,7 +11,7 @@
 - [E-FDPC-julia](https://github.com/WangPengrui/E-FDPC-julia)：增强密度峰值快速聚类算法（Enhanced-fast density-peak-based clustering, [E-FDPC](https://github.com/senjia1980/EFDPC)）的julia实现。
 
 # 学习心得🌱
-
+写一些小笔记，促进自身成长。
 ## Java
 - ...
 
