@@ -15,7 +15,7 @@
 写一些小笔记，促进自身成长。
 
 ## Leetcode
-- 当前学习进度170题，学习心得会放在[这里](https://github.com/WangPengrui/leetcode-learing)(虽然现在里面还没啥)。
+- 当前学习进度170题，学习心得会放在[这里](https://github.com/WangPengrui/leetcode-learing)（虽然现在里面还没啥）。
 - [卡码网](https://kamacoder.com/)个人[答案](https://github.com/WangPengrui/leetcode-learing/tree/main/kama)分享。
 
 ## Java
