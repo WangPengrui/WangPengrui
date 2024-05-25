@@ -8,6 +8,7 @@
 > R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
 
 ## 更多内容
+
 - MOMSC：一种基于遗传算法的端元数提取问题，着重于解决优化算法用于组合优化问题的棘手个体退化问题，投稿中...
 - MAT-Net：一种CNN-transformer混合架构解混网络，第一轮返修中...
 
