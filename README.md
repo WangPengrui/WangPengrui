@@ -8,7 +8,7 @@
 针对多目标粒子群优化算法全局搜索能力不足，难以获取优质端元组合的问题，构建基于光谱子空间的多目标优化模型，以获取更为完整的端元集合；设计竞争与合作机制和聚类子空间搜索机制以改进多目标粒子群优化算法，提升了算法的全局搜索能力与搜索效率，并赋予粒子整合优质信息的能力。
 > R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
 
-## [MAT-Net]([https://github.com/liurongwhm/IMOPSO-EBE](https://github.com/WangPengrui/MAT-Net))
+## [MAT-Net](https://github.com/WangPengrui/MAT-Net)
 基于ViT设计了一种CNN-Transformer混合模型[1]，利用Transformer聚合CNN提取的多尺度特征信息，用于提取卫星图像中不同地物类型（如树木，屋顶等）的特征信息，同时估算图像中每个像素内部包含的地物类型及其所占面积的比例。解混任务可通俗理解为一种图像软分类任务，即像素级估算所属不同地物类型的概率。
 - 提出双流多分支CNN编码器以提取高光谱图像的光谱特征和不同尺度的空间特征。
 -	提出多头自尺度聚合注意力机制构建Transformer编码器，融合多尺度特征，相较SOTA解混精度提升16.1%。
