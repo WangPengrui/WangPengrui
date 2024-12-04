@@ -8,7 +8,7 @@
 > R. Liu, P. Wang, B. Du and B. Qu, "Endmember Bundle Extraction Based on Improved Multiobjective Particle Swarm Optimization," IEEE Geoscience and Remote Sensing Letters, vol. 20, pp. 1-5, 2023, Art no. 5506405, doi: 10.1109/LGRS.2023.3287919.
 
 ## [MAT-Net](https://github.com/WangPengrui/MAT-Net)
-基于ViT设计了一种CNN-Transformer混合模型[1]，利用Transformer聚合CNN提取的多尺度特征信息，用于提取卫星图像中不同地物类型（如树木，屋顶等）的特征信息，同时估算图像中每个像素内部包含的地物类型及其所占面积的比例。解混任务可通俗理解为一种图像软分类任务，即像素级估算所属不同地物类型的概率。
+基于ViT设计了一种CNN-Transformer混合模型，利用Transformer聚合CNN提取的多尺度特征信息，用于提取卫星图像中不同地物类型（如树木，屋顶等）的特征信息，同时估算图像中每个像素内部包含的地物类型及其所占面积的比例。解混任务可通俗理解为一种图像软分类任务，即像素级估算所属不同地物类型的概率。
 - 提出双流多分支CNN编码器以提取高光谱图像的光谱特征和不同尺度的空间特征。
 -	提出多头自尺度聚合注意力机制构建Transformer编码器，融合多尺度特征。
 > Wang P, Liu R, Zhang L. MAT-Net: Multiscale Aggregation Transformer Network for Hyperspectral Unmixing[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
