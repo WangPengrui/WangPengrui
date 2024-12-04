@@ -28,9 +28,6 @@
 - 数据结构和算法的学习心得会放在[这里](https://github.com/WangPengrui/leetcode-learing)。（TODO...）
 - [卡码网](https://kamacoder.com/)个人[答案](https://github.com/WangPengrui/leetcode-learing/tree/main/kama)分享。
 
-## Java
-- TODO...
-
 ## flutter
 - 一些基础语法和基础入门项目，[传送门](https://github.com/WangPengrui/flutter-learing)。
 
