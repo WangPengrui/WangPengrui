@@ -38,7 +38,7 @@
 - TODO...
 
 # 其他😄
-我的{谷歌学术](https://scholar.google.com/citations?user=wsO2LN8AAAAJ&hl=zh-CN&oi=sra)主页。
+我的[谷歌学术](https://scholar.google.com/citations?user=wsO2LN8AAAAJ&hl=zh-CN&oi=sra) 主页。
 未来可能会继续在NLP领域继续学习
 
 <!--
