@@ -78,9 +78,11 @@
 ## NLP
 - TODO...
 
-📫 How to reach me:
+# 联系我📫
+
 - E-Mail ：wangpr5@mail2.sysu.edu.cn
-[Google scholar](https://scholar.google.com/citations?user=wsO2LN8AAAAJ&hl=zh-CN&oi=sra)主页。
+
+- [Google scholar](https://scholar.google.com/citations?user=wsO2LN8AAAAJ&hl=zh-CN&oi=sra)主页。
 
 
 <!--
