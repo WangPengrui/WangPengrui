@@ -2,8 +2,11 @@
 我是中山大学研三在读学生~目前从事高光谱图像处理工作，以下是我的一些开源项目和学习笔记。
 
 📫 How to reach me:
+
 wangpr5@mail2.sysu.edu.cn
+
 https://orcid.org/0009-0007-9325-9693
+
 https://scholar.google.com/citations?user=wsO2LN8AAAAJ&hl=zh-CN&oi=sra
 
 # 开源项目🔭
