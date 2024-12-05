@@ -1,9 +1,6 @@
 # Hi 👋
 我是中山大学研三在读学生~目前从事高光谱图像处理工作，以下是我的一些开源项目和学习笔记。
 
-📫 How to reach me:
-- E-Mail ：wangpr5@mail2.sysu.edu.cn
-
 # 开源项目🔭
 
 ## [IMOPSO](https://github.com/liurongwhm/IMOPSO-EBE)
